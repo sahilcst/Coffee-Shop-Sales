@@ -1,2 +1,2 @@
-Analyzed Coffee Shop Sales and finds insights by making Dashboards 
-Using MS Excel
+Analyzed Coffee Shop Sales and got insights by making Dashboards 
+Using MS Excel.
